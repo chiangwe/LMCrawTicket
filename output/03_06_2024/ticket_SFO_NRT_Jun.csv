@@ -1,0 +1,5 @@
+Month,month,Date,route,isDirect,itrFlight,deptApt,deptAptTime,arrApt,arrAptTime,flightNo,flightSpan,operateBy,itrClass,ClassMiles,ClassInfo
+Jun,6,24,1.0,True,1.0,SFO,12:10,NRT,14:50,UA 837,"Non Stop, 10h 40m",United Airlines ,1.0,"LM 40,000",+ US$ 27.80
+Jun,6,24,1.0,True,1.0,SFO,12:10,NRT,14:50,UA 837,"Non Stop, 10h 40m",United Airlines ,2.0,,
+Jun,6,27,1.0,True,1.0,SFO,12:10,NRT,14:50,UA 837,"Non Stop, 10h 40m",United Airlines ,1.0,"LM 40,000",+ US$ 27.80
+Jun,6,27,1.0,True,1.0,SFO,12:10,NRT,14:50,UA 837,"Non Stop, 10h 40m",United Airlines ,2.0,,

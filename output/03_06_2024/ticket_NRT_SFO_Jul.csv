@@ -1,0 +1,7 @@
+Month,month,Date,route,isDirect,itrFlight,deptApt,deptAptTime,arrApt,arrAptTime,flightNo,flightSpan,operateBy,itrClass,ClassMiles,ClassInfo
+Jul,7,02,1.0,False,1.0,NRT,13:20,ICN,15:50,OZ 101,Non Stop,ASIANA AIRLINES,1.0,,
+Jul,7,02,1.0,False,1.0,NRT,13:20,ICN,15:50,OZ 101,Non Stop,ASIANA AIRLINES,2.0,"LM 6,880",2 Seats left
+Jul,7,02,1.0,False,2.0,ICN,20:40,SFO,15:40,OZ 212,Non Stop,ASIANA AIRLINES,1.0,"LM 33,630",
+Jul,7,02,1.0,False,2.0,ICN,20:40,SFO,15:40,OZ 212,Non Stop,ASIANA AIRLINES,2.0,,
+Jul,7,18,1.0,True,1.0,NRT,17:05,SFO,10:35,UA 838,"Non Stop, 09h 30m",United Airlines ,1.0,"LM 40,000",+ US$ 66.80
+Jul,7,18,1.0,True,1.0,NRT,17:05,SFO,10:35,UA 838,"Non Stop, 09h 30m",United Airlines ,2.0,,
